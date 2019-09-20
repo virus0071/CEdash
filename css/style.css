@@ -246,6 +246,10 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	margin-left: 45%;
 }
 
+#career{
+	padding-top:100px;
+}
+
 /* customer section */
 body {font-family: Arial;}
 .btn{
